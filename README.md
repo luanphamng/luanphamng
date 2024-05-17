@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**luanphamng/luanphamng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 align="center">Hi there 👋, I'm Luan, a developer specializing in developing Embedded Systems.</h2>
+<h3 align="center">Provide products/solutions with high reliability and long-term support</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanphamng" alt="luanphamng" /></a> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
